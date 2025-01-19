@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mutarov</h1>
 <h3 align="center">I'm from Russia</h3>
 
-- 🔭 I’m currently working on [FlexOS](github.com/Mutarov/FlexOS)
+- 🔭 I’m currently working on [FlexOS](github.com/Mutarov/FlexOS)(local repository)
 
 - 🌱 I’m currently learning **ASM**
 
