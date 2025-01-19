@@ -25,9 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutarov&show_icons=true&locale=en&layout=compact" alt="mutarov"/></p>
 
-<p></p>
-
-### Streak
+<p>### Streak</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutarov&" alt="mutarov" /></p>
 
