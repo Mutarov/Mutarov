@@ -19,7 +19,7 @@
 
 ## Stats
 
-<img> src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=neon" alt="Mutarov's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=neon" alt="Mutarov's GitHub stats"></img>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutarov&show_icons=true&locale=en&layout=compact" alt="mutarov"/></p>
 
