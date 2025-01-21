@@ -23,7 +23,7 @@
 
 ### Most used languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutarov&show_icons=true&locale=en&layout=compact" alt="mutarov"/></p>
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark" />
 
 <p><h3>Streak<h3></p>
 
