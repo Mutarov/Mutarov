@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mutarov</h1>
 <h3 align="center">I'm from Russia</h3>
 
-- 🔭 I’m currently working on [FlexOS](github.com/Mutarov/FlexOS)(local repository)
+- 🔭 I’m currently working on FBCFBBR and RuLang
 
 - 🌱 I’m currently learning **ASM**
 
 - 👨‍💻 All of my projects are available at github
 
-- 📫 How to reach me? tg: **@I4463I**
+- 📫 How to reach me? tg: **@llvm_c**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
