@@ -15,7 +15,7 @@
 ### Languages
 <p align="center">
   
-![](https://skillicons.dev/icons?i=c,cpp,py,md,bash)
+![](https://skillicons.dev/icons?i=c,cpp,py,md,bash,fish,zsh)
 </p>
 ###Tools:
 <p align="center">
