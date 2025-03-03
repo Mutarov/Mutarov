@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at github
 
-- 📫 How to reach me? tg: [![@llvm_c](https://img.shields.io/badge/Telegram-@llvm\_c-blue?style=flat-square&logo=telegram)](https://t.me/llvm_c)
+- 📫 How to reach me? tg: [![@llvm_c](https://img.shields.io/badge/Telegram-@llvm-c-blue?style=flat-square&logo=telegram)](https://t.me/llvm_c)
 
 ### Languages
 <p align="center">
