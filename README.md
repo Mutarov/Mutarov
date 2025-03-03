@@ -14,8 +14,11 @@
 
 ### Languages
 <p align="center">
+  
 ![](https://skillicons.dev/icons?i=c,cpp,py,md,bash)
+</p>
 ###Tools:
+<p align="center">
   
 ![](https://skillicons.dev/icons?i=arch,git,vim)
 </p>
