@@ -21,7 +21,7 @@
 ### Tools:
 <p align="center">
   
-![](https://skillicons.dev/icons?i=arch,git,vim)
+![](https://skillicons.dev/icons?i=arch,git,vim,neovim)
 </p>
 
 ## Stats
