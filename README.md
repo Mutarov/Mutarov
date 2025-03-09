@@ -26,11 +26,11 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=neon" alt="Mutarov's GitHub stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=highcontrast" alt="Mutarov's GitHub stats"></img>
 
 ### Most used languages
 
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&layout=pie&theme=neon" />
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&layout=pie&theme=highcontrast" />
 
 
 
