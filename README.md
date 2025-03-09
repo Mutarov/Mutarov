@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mutarov</h1>
 <h3 align="center">I'm from Russia</h3>
 <p align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff007&lines=Mutarov+-+The+C+Programmer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Mutarov+-+The+C+Programmer"/>
 </p>
 
 - 🔭 I’m currently working on **HVM & HedgehogLang**
