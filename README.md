@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mutarov</h1>
 <h3 align="center">I'm from Russia</h3>
-<p align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff00&lines=Mutarov+-+The+C+Programmer"/>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=Mutarov+-+The+C+Programmer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **HVM & HedgehogLang**
 
