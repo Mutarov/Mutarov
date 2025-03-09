@@ -15,7 +15,7 @@
 ### Languages
 <p align="center">
   
-![](https://skillicons.dev/icons?i=c,lua,py,md,bash&perline=2)
+![](https://skillicons.dev/icons?i=c,lua,py,md,bash&perline=3)
 </p>
 
 ### Tools:
