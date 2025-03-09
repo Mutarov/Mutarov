@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mutarov</h1>
 <h3 align="center">I'm from Russia</h3>
 <p align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mutarov+-+The+C+Programmer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff007&lines=Mutarov+-+The+C+Programmer"/>
 </p>
 
-- 🔭 I’m currently working on HVM & HedgehogLang
+- 🔭 I’m currently working on **HVM & HedgehogLang**
 
-- 🌱 I’m currently learning **ASM**
+- 🌱 I’m currently learning **Nothing**
 
-- 👨‍💻 All of my projects are available at github
+- 👨‍💻 All of my projects are available at **github**(gitlab maybe soon)
 
 - 📫 How to reach me? tg: [![@llvm_c](https://img.shields.io/badge/Telegram-@llvm-c-blue?style=flat-square&logo=telegram)](https://t.me/llvm_c)
 
