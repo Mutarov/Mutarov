@@ -26,11 +26,11 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=highcontrast&rank_icon=github" alt="Mutarov's GitHub stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=Gradient&rank_icon=github" alt="Mutarov's GitHub stats"></img>
 
 ### Most used languages
 
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&langs_count=8&layout=donut-vertical&theme=highcontrast"/>
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&langs_count=8&layout=donut-vertical&theme=Gradient"/>
 
 ### WakaTime
 
