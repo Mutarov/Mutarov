@@ -30,7 +30,7 @@
 
 ### Most used languages
 
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&langs_count=8&layout=donut-vertical&theme=Gradient"/>
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&langs_count=8&layout=donut-vertical&theme=gradient"/>
 
 ### WakaTime
 
