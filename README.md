@@ -15,13 +15,13 @@
 ### Languages
 <p align="center">
   
-![](https://skillicons.dev/icons?i=c,cpp,py,md,bash,fish,zsh)
+![](https://skillicons.dev/icons?i=c,lua,py,md,bash&perline=2)
 </p>
 
 ### Tools:
 <p align="center">
   
-![](https://skillicons.dev/icons?i=arch,git,vim,neovim)
+![](https://skillicons.dev/icons?i=arch,git,vim,neovim&perline=2)
 </p>
 
 ## Stats
