@@ -34,7 +34,7 @@
 
 ### WakaTime
 
-[![Mutarov's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mutarov)](https://github.com/anuraghazra/github-readme-stats)
+[![Mutarov's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
