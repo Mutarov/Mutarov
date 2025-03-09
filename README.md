@@ -30,11 +30,11 @@
 
 ### Most used languages
 
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&layout=pie&theme=highcontrast" />
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&langs_count=8&layout=donut-vertical&theme=highcontrast"/>
 
 ### WakaTime
 
-[![Mutarov's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mutarov)](https://github.com/anuraghazra/github-readme-stats)
+[![Mutarov's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mutarov)]
 
 
 
