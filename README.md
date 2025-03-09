@@ -25,17 +25,11 @@
 ![](https://skillicons.dev/icons?i=arch,git,vim,neovim&perline=2)
 </p>
 
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=radical&rank_icon=github" alt="Mutarov's GitHub stats"></img>
-
-### Most used languages
-
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&langs_count=8&layout=donut-vertical&theme=radical"/>
-
-### WakaTime
-
-[![Mutarov's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mutarov)]
+<details>
+  <summary>Github Stats ⚡</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=radical&rank_icon=github" alt="Mutarov's GitHub stats"></img>
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&langs_count=8&layout=donut-vertical&theme=radical"/>
+</details>
 
 
 
