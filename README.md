@@ -26,7 +26,7 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=highcontrast" alt="Mutarov's GitHub stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=highcontrast&rank_icon=github" alt="Mutarov's GitHub stats"></img>
 
 ### Most used languages
 
