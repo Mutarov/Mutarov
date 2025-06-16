@@ -37,7 +37,7 @@
   <div id="header" align="center" style="text-align: left;">
   
   <img style="height:auto;" alt="View oneon4i's full-sized avatar" src="https://avatars.githubusercontent.com/u/140802204?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">  
-  [oneon4i](https://github.com/oneon4i)
+  ![oneon4i](https://github.com/oneon4i)
   
   [zero!](https://github.com/zeroqxq)
     
