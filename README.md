@@ -31,6 +31,15 @@
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutarov&langs_count=8&layout=donut-vertical&theme=radical"/>
 </details>
 
+<details>
+  <summary>Friends😊</summary>
 
+  <div id="header" align="center" style="text-align: left;">
+    
+  [oneon4i](https://github.com/oneon4i)
+  [zero!](https://github.com/zeroqxq)
+    
+  </div>
+</details>
 
 
