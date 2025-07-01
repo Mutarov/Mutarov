@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mutarov</h1>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mutarov&style=flat-square&color=red" alt=""/>
+</div>
+
+
 <h3 align="center">I'm from Russia</h3>
 
 <p align='center'>
