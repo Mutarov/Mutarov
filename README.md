@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mutarov</h1>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mutarov&style=flat-square&color=red" alt=""/>
 </div>
-
 
 <h3 align="center">I'm from Russia</h3>
 
 <p align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=Mutarov+-+The+C+Programmer" alt="Typing SVG" /></a>
 </p>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 - 🔭 I’m currently working on **HVM & HedgehogLang**
 
