@@ -31,6 +31,8 @@
 ![](https://skillicons.dev/icons?i=arch,git,vim,neovim&perline=2)
 </p>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <details>
   <summary>Github Stats ⚡</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Mutarov&show_icons=true&theme=radical&rank_icon=github" alt="Mutarov's GitHub stats"></img>
