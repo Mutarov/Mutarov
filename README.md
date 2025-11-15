@@ -22,7 +22,7 @@
 
 - 📫 How to reach me? tg: [![@llvm_c](https://img.shields.io/badge/Telegram-@llvm-c-blue?style=flat-square&logo=telegram)](https://t.me/llvm_c)
 
-### Languages
+### Languages & Tools
 <br clear="both">
 
 <div align="center">
@@ -47,13 +47,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch limux logo" />
 </div>
-
-### Tools:
-<p align="center">
-  
-![](https://skillicons.dev/icons?i=arch,git,vim,neovim&perline=2)
-</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=mutarov&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
